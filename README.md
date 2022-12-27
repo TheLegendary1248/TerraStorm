@@ -1,6 +1,6 @@
 # TerraStorm
  An unfinished project with falling sand simulation at it's core, inspired by Noita
- Birthed on **N/A**, according to file metadata
+ Birthed on **2/16/2022**, according to file metadata
  ![Screenshot of Said Project](/screenshot.png)
 ---
 The primary concept was an artillery-like game, much like ShellShock Live and Scorched Earth, but with sand simulation  
